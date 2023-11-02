@@ -1,0 +1,7 @@
+Spinveld varchar
+8 int
+4815 HS varchar
+Breda varchar
+
+
+ik denk dat we het id adresID de waarde pk geven want daar is hoofdkantoor, het bestaad, kan niet leeg, uniek want dubbelen anderessen op de zelfde plek kan niet, het kan niet in de min want het gebouw/adress blijft bestaan.

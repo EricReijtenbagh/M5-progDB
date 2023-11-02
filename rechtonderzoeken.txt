@@ -1,0 +1,19 @@
+Creëren:
+
+Dit privilege wordt ingezet om een nieuwe tabel aan te maken.
+Het is handig wanneer je behoefte hebt aan het genereren van een frisse tabel.
+Aanpassen:
+
+Dit recht wordt gebruikt om gegevens in een bestaande tabel te wijzigen.
+Het kan van pas komen wanneer je bijvoorbeeld de prijs van een item wilt aanpassen.
+Verwijderen:
+
+Dit privilege wordt ingezet om gegevens of objecten in de database te wissen.
+Het kan potentieel misbruikt worden door een ongeautoriseerde gebruiker, zoals een hacker, om de volledige database te wissen.
+Toekennen:
+
+Dit recht wordt gebruikt om andere gebruikers nieuwe privileges te verlenen.
+Het kan gevaarlijk zijn als het in verkeerde handen valt, aangezien een kwaadwillige gebruiker hiermee alle privileges aan een andere gebruiker kan toekennen en mogelijk schadelijke handelingen kan verrichten.
+
+
+
